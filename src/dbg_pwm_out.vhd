@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 --
--- PWM output for debugging
+-- PWM output for debugging - change filter pwm
 -- Samples a signal at the start of the PWM cycle whilst raising an output
 -- Counts until the value sampled is reached then drops PWM
 -- Wraps when the full count is reached
